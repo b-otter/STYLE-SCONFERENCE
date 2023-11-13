@@ -1,0 +1,290 @@
+
+
+.box{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 200px;
+
+
+}
+
+.textbox{
+    position: absolute;
+    left: 350px;
+    top: 50px;
+    color: aliceblue;
+    font-size: 60px;
+    width: 70px;
+    height: 70px;
+}
+
+.textbox2{
+
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    color: aliceblue;
+    font-size: 60px;
+    width: 100;
+    height: 70px;
+
+
+}
+
+.backbox{
+
+    background-color: rgba(2, 114, 45, 0.671);
+    width: 100%;
+    height: 300px;
+
+}
+
+
+
+.textbox3{
+    position: absolute;
+    left: 800px;
+    top: 250px;
+    width: 100;
+    height: 50px;
+    font-size: 40px;
+}
+
+.textbox4{
+    position: absolute;
+    left: 300px;    
+    top: 300px;
+    width: 1115px;
+    height: 300px;
+    font-size: 19px;
+    text-align: center;
+    margin-right: 700px;
+    margin-left: 40px;
+
+}
+
+.buy{
+    position: absolute;
+    left: 350px;
+    top: 530px;
+    font-size: 25px;
+color: CadetBlue;
+}
+
+.buy2{
+    position: absolute;
+    left: 350px;
+    top: 560px;
+    font-size: 18px;
+
+}
+
+
+.textbox5{
+    position: absolute;
+    left: 350px;    
+    top: 600px;
+    width: 600px;
+    height: 90px;
+    font-size: 18px;
+    text-align: left;
+    
+}
+
+.zahbuy{
+    position: absolute;
+    left: 350px; 
+    top: 700px;
+    font-size: 21px;
+    color: CadetBlue;
+}
+
+.spisok{
+    position: absolute;
+    left: 335px; 
+    top: 750px;
+
+}
+
+.box3{
+position: absolute;
+    left: 1250px; 
+    top: 530px;
+    width: 400px;
+    height: 320px;
+}
+
+.textbox10{
+    color: CadetBlue;
+
+    position: absolute;
+    left: 10px; 
+    top: 5px;
+
+}
+
+.form1{
+    position: absolute;
+    left: 10px; 
+    top: 23px;
+}
+
+.textbox11{
+    color: CadetBlue;
+
+    position: absolute;
+    left: 10px; 
+    top: 53px;
+
+}
+
+.form2{
+    position: absolute;
+    left: 10px; 
+    top: 71px;
+}
+
+.textbox13{
+    color: CadetBlue;
+
+    position: absolute;
+    left: 10px; 
+    top: 113px;
+
+}
+
+.form3{
+    position: absolute;
+    left: 10px; 
+    top: 131px;
+}
+
+.textbox14{
+    color: CadetBlue;
+
+    position: absolute;
+    left: 0px; 
+    top: 163px;
+
+}
+
+.memo{
+    position: absolute;
+    left: 10px; 
+    top: 183px; 
+    width: 176px;
+    height: 80px;
+}
+
+.form4{
+    color: CadetBlue;
+
+    position: absolute;
+    left: 10px; 
+    top: 290px;
+    width: 100px;
+    height: 30px;
+}
+.bbb{
+    position: absolute;
+    left: 0px; 
+    top: 870px;
+    background-color: rgba(10, 4, 99, 0.363);
+    width: 100%;
+    height: 100px;
+}
+
+.silka{
+    position: absolute;
+    left: 750px;
+    top: 138px;
+    border: 2px red;
+    width: 600px;
+    height: 20px;  
+}
+
+.href1{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 80px; 
+
+}
+.href2{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 180px; 
+}
+
+.href3{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 280px; 
+}
+
+.href4{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 400px; 
+}
+
+.href5{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 600px; 
+}
+
+.gg{
+    position: absolute;
+    left: 880px;
+    top: 30px;
+    border: 2px red;
+    width: 600px;
+    height: 60px;  
+}
+
+.href6{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 20px; 
+
+}
+.href7{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 100px; 
+}
+
+.href8{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 200px; 
+}
+
+.href9{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 320px; 
+}
+
+.href10{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute; 
+    left: 480px; 
+}
+
+.email2{
+    position: absolute;
+    left: 350px;    
+    top:900px;
+
+}
